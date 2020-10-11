@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Yoga Anugrah Pratama. SY</h1>
-<h3 align="center">**Currently focusing on studying as a backend developer / web developer.**</h3>
+**<h3 align="center">Currently focusing on studying as a backend developer / web developer.</h3>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaapsy&label=Profile%20views&color=0e75b6&style=flat" alt="yogaapsy" /> </p>
 
@@ -12,5 +12,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogaapsy&show_icons=true&theme=tokyonight" alt="yogaapsy" /></p>
 
-<h2 align="center">**Give some :heart: for my poor github**</h2>
+**<h2 align="center">Give some :heart: for my poor github</h2>**
 
