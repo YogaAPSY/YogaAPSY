@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Yoga Anugrah Pratama. SY</h1>
-**<h3 align="center">Currently focusing on studying as a backend developer / web developer.</h3>**
+<h3 align="center">Currently focusing on studying as a backend developer / web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaapsy&label=Profile%20views&color=0e75b6&style=flat" alt="yogaapsy" /> </p>
 
